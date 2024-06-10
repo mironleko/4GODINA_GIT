@@ -1,0 +1,16 @@
+Teorija
+
+Bila identična kao i na ovogodišnjem LJIR-u, tj. mješavina identičnih zadataka od ovogodišnjih MI i ZI.
+
+
+Zadaci
+
+1. Zadatak identičan kao i na ovogodišnjem LJIR-u: Napravite dvije aplikacije koje će korisnicima ponuditi mogućnosti slanja objava na oglasnu ploču protokolom TCP. 
+Prva aplikacija treba biti Swing aplikacija koja u prozoru redom prikazuje sve oglase koje su korisnici poslali.
+Druga aplikacija je naredbeno-retčana koja omogućava korisniku da definira tekst oglasa (najjednostavnije - kao argument nerdbenom retku pri pokretanju programa) i taj oglas šalje na oglasnu ploču protokolom TCP.
+
+2. Napravite web-aplikaciju koja prikazuje viceve. Vic se sastoji od teksta i broja glasova.
+Dolaskom na stranicu, prikazuju se svi do tada uneseni vicevi. Na dnu stranice se nalazi obrazac kroz koji korisnik može unijeti novi vic. 
+Korisnik može proizvoljan broj puta glasati za svaki od viceva.
+Početno, vicevi se prikazuju redoslijedom koim su dodani. Međutim web-aplikacija treba ponuditi mogućnosti prikaza viceva tako da se prikazuju soritrano od najvećeg broja glasova.
+PS. U rješenju ne postoji baza, već se podaci samo spremaju u session pa bi to trebalo doraditi za sve bodove.
