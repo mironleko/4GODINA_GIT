@@ -1,0 +1,259 @@
+<mxfile host="Electron" modified="2024-03-30T13:19:11.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Bbag3RTEg_3WzIQoOAuW" version="24.1.0" type="device">
+  <diagram name="Page-1" id="ikzUpqAUHCB5sR5s8JnU">
+    <mxGraphModel dx="1122" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Identifikacija člana&amp;nbsp;&lt;div&gt;sportskog centra&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-7" target="Pyc10BSElwtPO-Q09XgS-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="570" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-11" value="P7.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-12" value="Član sportskog centra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="265" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-16" target="Pyc10BSElwtPO-Q09XgS-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="370" as="sourcePoint" />
+            <mxPoint x="310" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-24" value="Član" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="265" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-25" value="D1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-26" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;startArrow=block;startFill=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-7" target="Pyc10BSElwtPO-Q09XgS-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-31" value="Član" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-26">
+          <mxGeometry x="-0.0831" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-29" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;dashed=1;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-12" target="Pyc10BSElwtPO-Q09XgS-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-30" value="Provjera članstva" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-29">
+          <mxGeometry x="-0.0264" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Odabir aktivnosti i termina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-33" target="Pyc10BSElwtPO-Q09XgS-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="710" as="sourcePoint" />
+            <mxPoint x="480" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-35" value="P7.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-36" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-7" target="Pyc10BSElwtPO-Q09XgS-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-72" value="Izrada rezervacije" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-36">
+          <mxGeometry x="-0.05" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-38" value="" style="endArrow=block;html=1;rounded=0;entryX=1.001;entryY=0.31;entryDx=0;entryDy=0;endFill=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-42" target="Pyc10BSElwtPO-Q09XgS-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="407" as="sourcePoint" />
+            <mxPoint x="320" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-40" value="Popis rasporeda&amp;nbsp;&lt;div&gt;rezervacija&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-38">
+          <mxGeometry x="0.1722" relative="1" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-39" value="" style="endArrow=block;html=1;rounded=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.998;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-33" target="Pyc10BSElwtPO-Q09XgS-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="435" as="sourcePoint" />
+            <mxPoint x="370" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-41" value="Pregled rasporeda&lt;div&gt;rezervacija&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-39">
+          <mxGeometry x="-0.1964" y="1" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-46" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-33" target="Pyc10BSElwtPO-Q09XgS-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="310" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-73" value="Izrada rezervacije" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-46">
+          <mxGeometry x="0.063" y="2" relative="1" as="geometry">
+            <mxPoint x="43" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-48" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Ažuriranje rasporeda rezervacija&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="440" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-48" target="Pyc10BSElwtPO-Q09XgS-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="770" as="sourcePoint" />
+            <mxPoint x="1180" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-50" value="P7.5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="440" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-51" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Izrada potvrde o rezervaciji&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-51" target="Pyc10BSElwtPO-Q09XgS-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="510" as="sourcePoint" />
+            <mxPoint x="925" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-53" value="P7.6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="181" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-54" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Unos rezervacije&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-54" target="Pyc10BSElwtPO-Q09XgS-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="860" as="sourcePoint" />
+            <mxPoint x="690" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-56" value="P7.3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-57" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Validacija rezervacije&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="340" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-58" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-57" target="Pyc10BSElwtPO-Q09XgS-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="670" as="sourcePoint" />
+            <mxPoint x="930" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-59" value="P7.4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="555" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-68" target="Pyc10BSElwtPO-Q09XgS-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="660" as="sourcePoint" />
+            <mxPoint x="560" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0.518;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-70" target="Pyc10BSElwtPO-Q09XgS-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-93" value="Rezervacija" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-78">
+          <mxGeometry x="0.0739" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-70" value="Rezervacija" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="555" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-71" value="D2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="555" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-74" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-54" target="Pyc10BSElwtPO-Q09XgS-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="480" y="570" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-77" value="Rezervacija" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-74">
+          <mxGeometry x="-0.026" y="-4" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.517;exitY=0.004;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-51" target="Pyc10BSElwtPO-Q09XgS-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="613" y="565" as="sourcePoint" />
+            <mxPoint x="430" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-80" value="Potvrda rezervacije" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-79">
+          <mxGeometry x="0.1834" y="-1" relative="1" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.542;exitY=0.002;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0.519;entryY=0.997;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-59" target="Pyc10BSElwtPO-Q09XgS-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="613" y="565" as="sourcePoint" />
+            <mxPoint x="613" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-94" value="Potvrda o rezervaciji" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-82">
+          <mxGeometry x="0.0434" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-89" value="" style="endArrow=block;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Pyc10BSElwtPO-Q09XgS-50" source="Pyc10BSElwtPO-Q09XgS-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="389" as="sourcePoint" />
+            <mxPoint x="850" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-90" value="Pregled rasporeda&lt;div&gt;rezervacija&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-89">
+          <mxGeometry x="-0.1964" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pyc10BSElwtPO-Q09XgS-48" target="Pyc10BSElwtPO-Q09XgS-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="550" as="sourcePoint" />
+            <mxPoint x="613" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pyc10BSElwtPO-Q09XgS-96" value="Rezervacija" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pyc10BSElwtPO-Q09XgS-95">
+          <mxGeometry x="0.0739" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

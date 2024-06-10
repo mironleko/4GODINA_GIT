@@ -1,0 +1,203 @@
+<mxfile host="Electron" modified="2024-03-29T20:28:59.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="R69jEc0ZwD47OC9yvsfM" version="24.1.0" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="954" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jr_tpRYTih1md_RivC2F-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SPORTSKI CENTAR&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-1" target="Jr_tpRYTih1md_RivC2F-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-3" value="P0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="395" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-47" value="pregled osobnih podataka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-46" vertex="1" connectable="0">
+          <mxGeometry x="0.0352" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-5" value="članovi sportskog centra" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-27" value="upravljanje&lt;div&gt;ponudom&lt;/div&gt;&lt;div&gt;sportskih&lt;/div&gt;&lt;div&gt;aktivnosti&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-6" target="Jr_tpRYTih1md_RivC2F-1" edge="1">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-6" value="administrator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-7" value="zaposlenici" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="290" as="sourcePoint" />
+            <mxPoint x="320" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-10" value="izmjena osobnih podataka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-8" vertex="1" connectable="0">
+          <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="330" as="sourcePoint" />
+            <mxPoint x="320" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-12" value="rezervacija i otkazivanje&amp;nbsp;&lt;div&gt;termina&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-11" vertex="1" connectable="0">
+          <mxGeometry x="0.2375" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.176;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329.9000000000001" y="250" as="sourcePoint" />
+            <mxPoint x="100" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="357" y="200" />
+              <mxPoint x="100" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-14" value="pregled obavijesti" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.0444" y="-3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.995;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-7" target="Jr_tpRYTih1md_RivC2F-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-16" value="objava obavijesti&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-15" vertex="1" connectable="0">
+          <mxGeometry x="0.1784" y="-1" relative="1" as="geometry">
+            <mxPoint x="19" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Jr_tpRYTih1md_RivC2F-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="332" as="sourcePoint" />
+            <mxPoint x="530" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-19" value="upravljanje prisustvom na&lt;div&gt;&amp;nbsp;terminima i aktivnostima&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-18" vertex="1" connectable="0">
+          <mxGeometry x="0.1918" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=none;" parent="1" source="Jr_tpRYTih1md_RivC2F-7" target="Jr_tpRYTih1md_RivC2F-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="250" as="sourcePoint" />
+            <mxPoint x="480" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="220" />
+              <mxPoint x="478" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-22" value="pregled osobnih podataka" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-21" vertex="1" connectable="0">
+          <mxGeometry x="0.323" y="2" relative="1" as="geometry">
+            <mxPoint x="63" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.133;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="380" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-25" value="unos, brisanje, ažuriranje&amp;nbsp;&lt;div&gt;podataka o zaposlenicima&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-23" vertex="1" connectable="0">
+          <mxGeometry x="0.3047" y="-1" relative="1" as="geometry">
+            <mxPoint x="-51" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="560" as="sourcePoint" />
+            <mxPoint x="470" y="370" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-26" value="postavljanje i ažuriranje&amp;nbsp;&lt;div&gt;rasporeda aktivnosti&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-24" vertex="1" connectable="0">
+          <mxGeometry x="0.0438" y="-1" relative="1" as="geometry">
+            <mxPoint x="49" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.952;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-7" target="Jr_tpRYTih1md_RivC2F-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="120" as="sourcePoint" />
+            <mxPoint x="750" y="248" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.967;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-1" target="Jr_tpRYTih1md_RivC2F-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="420" as="sourcePoint" />
+            <mxPoint x="570" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="430" />
+              <mxPoint x="660" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-35" value="pregled podataka&lt;div&gt;o zaposlenicima&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.1641" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.033;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-1" target="Jr_tpRYTih1md_RivC2F-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="420" as="sourcePoint" />
+            <mxPoint x="360" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="430" />
+              <mxPoint x="190" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-41" value="pregled aktivnosti, resursa&amp;nbsp;&lt;div&gt;i rasporeda&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.0911" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.048;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jr_tpRYTih1md_RivC2F-1" target="Jr_tpRYTih1md_RivC2F-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="220" as="sourcePoint" />
+            <mxPoint x="140" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="220" />
+              <mxPoint x="130" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jr_tpRYTih1md_RivC2F-44" value="pregled aktivnosti" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Jr_tpRYTih1md_RivC2F-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.141" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

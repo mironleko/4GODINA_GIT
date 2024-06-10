@@ -1,0 +1,109 @@
+<mxfile host="Electron" modified="2024-04-14T00:26:36.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ZyXdOr9wD1Glw-h0MuLq" version="24.1.0" type="device">
+  <diagram name="Page-1" id="aM7IN63mEbVTSNA6mHg-">
+    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fa3D45RWUEOkiaDmatbT-14" value="" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-15" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-14" target="fa3D45RWUEOkiaDmatbT-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-17" target="fa3D45RWUEOkiaDmatbT-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-17" value="Prikaz forme za unos nove rezervacije" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="170" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-19" target="fa3D45RWUEOkiaDmatbT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-19" value="Sustav prikazuje popis termina i aktivnosti" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="300" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-21" target="fa3D45RWUEOkiaDmatbT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-21" value="Odabir aktivnosti i trajanje termina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="430" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-23" target="fa3D45RWUEOkiaDmatbT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-23" value="Član unosi dodatne informacije potrebne za rezervaciju" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="560" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-24" target="fa3D45RWUEOkiaDmatbT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-24" value="Potvrda unosa rezervacije" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="690" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-25" target="fa3D45RWUEOkiaDmatbT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-29" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fa3D45RWUEOkiaDmatbT-28">
+          <mxGeometry x="-0.2053" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-25" target="fa3D45RWUEOkiaDmatbT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-25" value="Potvrda unosa?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="820" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-27" target="fa3D45RWUEOkiaDmatbT-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-27" value="Povratak na prethodni zaslon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-30" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-32" target="fa3D45RWUEOkiaDmatbT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-32" value="Provjera ispravnosti unesenih podataka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="970" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-34" target="fa3D45RWUEOkiaDmatbT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-37" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fa3D45RWUEOkiaDmatbT-36">
+          <mxGeometry x="-0.1771" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-34" target="fa3D45RWUEOkiaDmatbT-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-34" value="Potvrda ispravnosti?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="1109" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-38" target="fa3D45RWUEOkiaDmatbT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-38" value="Spremanje rezervacije u bazu podataka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="1220" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa3D45RWUEOkiaDmatbT-40" target="fa3D45RWUEOkiaDmatbT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fa3D45RWUEOkiaDmatbT-40" value="Prikaz potvrde o uspješnoj rezervaciji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="1330" width="135" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,110 @@
+<mxfile host="Electron" modified="2024-04-14T01:02:35.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="w1Qs5qv1ACng9dywJOBe" version="24.1.0" type="device">
+  <diagram name="Page-1" id="d6eIxJGhM_MELETApv17">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fObFLKjZNxEf--pGNHlM-1" value="" style="ellipse;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-2" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-1" target="fObFLKjZNxEf--pGNHlM-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-4" target="fObFLKjZNxEf--pGNHlM-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-4" value="Član odabire opciju izmjena podataka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="170" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-6" target="fObFLKjZNxEf--pGNHlM-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-6" value="Sustav prikazuje formu s trenutnim osobnim podacima koje član može izmijeniti" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="300" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-8" value="Član unosi ili mijenja željene informacije u formi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="430" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-8" target="fObFLKjZNxEf--pGNHlM-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-12" target="fObFLKjZNxEf--pGNHlM-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-12" value="Član potvrđuje izmjenu podataka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="600" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-16" target="fObFLKjZNxEf--pGNHlM-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-14" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fObFLKjZNxEf--pGNHlM-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.2053" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-16" target="fObFLKjZNxEf--pGNHlM-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-16" value="Potvrda izmjene?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="730" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-18" target="fObFLKjZNxEf--pGNHlM-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-18" value="Povratak na prethodni zaslon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-19" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-21" target="fObFLKjZNxEf--pGNHlM-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-21" value="Provjera ispravnosti unesenih podataka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="860" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-25" target="fObFLKjZNxEf--pGNHlM-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="1030" />
+              <mxPoint x="308" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-23" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fObFLKjZNxEf--pGNHlM-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.1771" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-25" target="fObFLKjZNxEf--pGNHlM-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-25" value="Potvrda ispravnosti?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="1000" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-27" target="fObFLKjZNxEf--pGNHlM-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-27" value="Spremanje promjena u bazu podataka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="1130" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fObFLKjZNxEf--pGNHlM-29" target="fObFLKjZNxEf--pGNHlM-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fObFLKjZNxEf--pGNHlM-29" value="Prikaz potvrde o uspješnoj izmjeni podataka i povratak na ažurirani prikaz profila" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="1260" width="135" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
